@@ -26,4 +26,5 @@ The script provides sentiment analysis using both TextBlob and VADER. It categor
 
 Feel free to contribute, report issues, or suggest improvements!
 
-PS.. This concept started when I sought a method to up my WAM for my uni degree... I decided to experiment with a straightforward sentiment analysis approach, focusing on posts related to a particular subject within the r/unimelb subreddit. The goal was to gauge the majority sentiments and opinions on a specific subject within the university community :)
+## Rationale...
+This concept started when I wanted to find subjects to up my WAM for my uni degree... I decided to experiment with a straightforward sentiment analysis approach, focusing on posts related to a particular subject within the r/unimelb subreddit. The goal was to gauge the majority sentiments and opinions on a specific subject within the university community :)
